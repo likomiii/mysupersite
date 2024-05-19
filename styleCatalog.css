@@ -1,0 +1,90 @@
+.color-hint {
+    background: linear-gradient(darkviolet, 10%, MediumPurple);
+}
+
+h1{
+    text-align: center;
+    color: snow;
+    text-shadow: 10px 10px 10px black;
+    font-size: 50px;
+    font-family: 'COMIC SANS MS';
+}
+
+h2{
+    text-align: center;
+    color: snow;
+    text-shadow: 10px 10px 10px black;
+    font-size: 35px;
+    font-family: 'COMIC SANS MS';
+}
+
+.category1{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    font-family: 'COMIC SANS MS';
+}
+
+.category1 a{
+    color: MistyRose;
+}
+
+.category2{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    font-family: 'COMIC SANS MS';
+}
+
+.category2 a{
+    color: MistyRose;
+}
+
+.category3{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    font-family: 'COMIC SANS MS';
+}
+
+.category3 a{
+    color: MistyRose;
+}
+
+.category4{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    font-family: 'COMIC SANS MS';
+}
+
+.category4 a{
+    color: MistyRose;
+}
+
+.category5{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    font-family: 'COMIC SANS MS';
+}
+
+.category5 a{
+    color: MistyRose;
+}
+
+a:visited{
+    color: gray;
+}
+
+.text-block{
+    color: OldLace;
+    font-size: 20px;
+    font-family: 'COMIC SANS MS';
+}
+
+li{
+    color: OldLace;
+    font-size: 20px;
+    font-family: 'COMIC SANS MS';
+}
